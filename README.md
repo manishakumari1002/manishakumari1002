@@ -1,6 +1,6 @@
 ![logo](https://media.licdn.com/dms/image/D4E16AQH_4amhs7BzKg/profile-displaybackgroundimage-shrink_350_1400/0/1686796489897?e=1716422400&v=beta&t=7DxRffTWKA6K5b-izMgZOosS2QFW2HCLJrZE0_nntJQ)
 <h1 align="center">Hi 👋, I'm Manisha Kumari</h1>
-<h3 align="center">A passionate Programmer.</h3>
+<h3 align="center">A  Tech Enthusiast .</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishakumari1002" alt="manishakumari1002" /></a> </p>
 
