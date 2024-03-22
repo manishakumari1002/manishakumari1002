@@ -33,7 +33,8 @@
 <h3>📊 My Github Stats</h3> 
  <br/>
 <a href="https://github.com/manishakumari1002/github-readme-stats"><img alt="# Github Stats" src="https://github-readme-stats.vercel.app/api?username=manishakumari1002&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/manishakumari1002/github-readme-stats"><img alt="Manisha KumariTop Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceSinghhub&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ <a href="https://github.com/manishakumari1002/github-readme-stats"><img alt="# Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishakumari1002&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
   <br/>
 <br>
  <a href="https://https://github.com/manishakumari1002/github-readme-streak-stats">
