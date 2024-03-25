@@ -14,7 +14,7 @@
 - 💬 Ask me about **oops, python ,html,css and js.**
 
 - 📫 How to reach me **manishakri05023@gmail.com**</p>
-
+<br>
 
 <h3 align="left">📧 Connect with me:</h3>
 <p align="left">
