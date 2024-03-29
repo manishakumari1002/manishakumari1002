@@ -15,7 +15,7 @@
 - 💬 Ask me about **OOPS, PYTHON, HTML, CSS and JS.**
 
 - 📫 How to reach me **manishakri05023@gmail.com**
-- Check My! [**Linktree**](https://linktr.ee/manisha_kumari1002/)</p>
+</p>
 <br>
 
 
