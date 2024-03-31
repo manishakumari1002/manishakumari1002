@@ -32,6 +32,7 @@
 <a href="https://www.codechef.com/users/manisha_kri12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manisha_kri12" height="80" width="70" /></a>
 <a href="https://www.leetcode.com/manishakri05023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manishakri05023" height="70" width="80" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/manishakaw2y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/manishakaw2y" height="70" width="80" /></a>
+<a href="https://www.hackerrank.com/profile/manishakri05023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="#" height="50" width="60" /></a>
 </p>
 
 <br>
