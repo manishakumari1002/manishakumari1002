@@ -18,8 +18,6 @@
 -   👨‍💻 Check My Achievements :https://linktr.ee/manisha_kumari1002
 </p>
 <br>
-
-
 <h3 align="left">📧 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/manisha kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manisha kumari" height="50" width="40" /></a> 
