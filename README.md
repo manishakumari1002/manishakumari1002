@@ -8,7 +8,6 @@
 </br>
 ![](https://komarev.com/ghpvc/?username=manishakumari1002)
 
-
 ## 🙋‍♂️ About Me
 <p>- 🔭 I’m currently working on **Full stack web app and Data Structure**
 
