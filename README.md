@@ -22,7 +22,7 @@
 </p>
 
  <br>
- <a><img align="right" src="LeetcodeBadge.gif" width="350" height="240" /></a>
+ <a><img align="right" src="LeetcodeBadge.gif" width="310" height="240" /></a>
  
  <h3 align="left">👨‍💻Coding Profile:</h3>
  <p align="left">
