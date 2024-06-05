@@ -5,7 +5,7 @@
  ❤ Views
 </br>
 ![](https://komarev.com/ghpvc/?username=manishakumari1002)
-
+[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-3k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/manisha-kri/)
 ## 🙋‍♂️ About Me
 <p>- 🔭 I’m currently working on **Full stack web app and Data Structure**
 
