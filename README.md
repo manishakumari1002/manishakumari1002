@@ -6,6 +6,8 @@
 </br>
 ![](https://komarev.com/ghpvc/?username=manishakumari1002)
 [![Linkedin Follow](https://img.shields.io/badge/LinkedIn-3k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/manisha-kri/)
+
+
 ## 🙋‍♂️ About Me
 <p>- 🔭 I’m currently working on **Full stack web app and Data Structure**
 
@@ -22,7 +24,11 @@
 </p>
 
  <br>
+  <a><img align="right" src="2024-100-new.gif" width="90" height="70" /></a>
  <a><img align="right" src="LeetcodeBadge.gif" width="90" height="70" /></a>
+ <a><img align="right" src="2024-04.gif" width="90" height="70" /></a>
+ <a><img align="right" src="2024-03.gif" width="90" height="70" /></a>
+
  
  <h3 align="left">👨‍💻Coding Profile:</h3>
  <p align="left">
