@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" style="height: 350px; width: 1000px" >
+<img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" style="height: 320px; width: 1000px" >
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Manisha Kumari (A Tech Enthusiast)⭐</b></h1>
 <h3 align="center"> 👨‍💻 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas..  Love to learn new technologies and to explore new sets of areas.</h3><img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
