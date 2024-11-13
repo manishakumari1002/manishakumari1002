@@ -17,8 +17,8 @@
 - 📫 How to reach me **manishakri05023@gmail.com**
 -   👨‍💻 Check My **Achievements** :https://linktr.ee/manisha_kumari1002
 -   🤝 I'm open to collaborating on **interesting projects**
--  📄 Know about my experiences : [<b>Resume</b>](https://github.com/manishakumari1002/manishakumari1002/raw/main/MANISHA_KUMARI_resume.pdf)
-  
+-  📄 Know about my experiences : [<i>**Resume**</i>](https://github.com/manishakumari1002/manishakumari1002/blob/main/MANISHA_KUMARI_resume.pdf)
+
 </p>
 <br>
 
