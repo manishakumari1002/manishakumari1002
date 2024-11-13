@@ -10,12 +10,12 @@
 
 
 ## 🙋‍♂️ About Me
-<p>- 🔭 I’m currently working on **Full stack web app and Data Structure**
+<p>- 🔭 I’m currently working on <b>Full stack web development and Data Structure.</b>
 
 - 💬 Ask me about **OOPS, PYTHON, HTML, CSS and JS.**
 
 - 📫 How to reach me **manishakri05023@gmail.com**
--   👨‍💻 Check My Achievements :https://linktr.ee/manisha_kumari1002
+-   👨‍💻 Check My **Achievements** :https://linktr.ee/manisha_kumari1002
 -   🤝 I'm open to collaborating on **interesting projects**
 </p>
 <br>
@@ -26,9 +26,9 @@
 </p>
 
  <br>
-  <a><img align="right" src="2024-100-new.gif" width="90" height="70" /></a>
- <a><img align="right" src="LeetcodeBadge.gif" width="90" height="70" /></a>
+  <a><img align="right" src="LeetcodeBadge.gif" width="90" height="70" /></a>
  <a><img align="right" src="2024-04.gif" width="90" height="70" /></a>
+ <a><img align="right" src="2024-100-new.gif" width="90" height="70" /></a>
  <a><img align="right" src="2024-200.gif" width="90" height="70"/></a>
 
  
