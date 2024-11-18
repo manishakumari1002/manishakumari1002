@@ -42,7 +42,10 @@
 <a href="https://www.geeksforgeeks.org/user/manishakaw2y/">
 <img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" height="50" width="60"/>
 <a href="https://www.hackerrank.com/profile/manishakri05023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="#" height="50" width="60" />
+<a href="https://www.naukri.com/code360/profile/ManishaKumari" target="_blank">
+  <img src="codingNinjajs_profile.jpg" alt="#" height="50" width="60" align="center"/>
 </p>
+
 <br>
 <h3 align="left">🚀Languages and 🛠Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> 
