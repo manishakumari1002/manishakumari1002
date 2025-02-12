@@ -12,7 +12,7 @@
 ## 🙋‍♂️ About Me
 <p>- 🔭 I’m currently working on <b>Full stack web development and Data Structure.</b>
 
-- 💬 Ask me about **OOPS, PYTHON, HTML, CSS and JS.**
+- 💬 Ask me about **OOPS,DBMS, PYTHON, HTML, CSS and JS.**
 
 - 📫 How to reach me **manishakri05023@gmail.com**
 -   👨‍💻 Check My **Achievements** :https://linktr.ee/manisha_kumari1002
