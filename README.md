@@ -12,7 +12,7 @@
 ## 🙋‍♂️ About Me
 <p>- 🔭 I’m currently working on <b>Full stack web development and Data Structure.</b>
 
-- 💬 Ask me about **OOPS, Java, Pyton, Spring, SpringBoot, DBMS, OS, MYSQL.**
+- 💬 Ask me about **OOPS, Java, Pyton, JDBC, Servlets, Spring, SpringBoot, DBMS, OS, MYSQL.**
 
 - 📫 How to reach me **manishakri05023@gmail.com**
 -   👨‍💻 Check My **Achievements** :https://linktr.ee/manisha_kumari1002
