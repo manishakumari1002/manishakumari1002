@@ -10,7 +10,7 @@
 
 
 ## 🙋‍♂️ About Me
-<p>- 🔭 I’m currently working on <b>Full stack web development and Data Structure.</b>
+<p> 🔭 I’m currently working on <b>Full stack web development and Data Structure.</b>
 
 - 💬 Ask me about **OOPS, Java, Pyton, JDBC, Servlets, Spring, SpringBoot, DBMS, OS, MYSQL.**
 
