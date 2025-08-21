@@ -17,24 +17,18 @@
 - 📫 How to reach me **manishakri05023@gmail.com**
 -   👨‍💻 Check My **Achievements** :https://linktr.ee/manisha_kumari1002
 -   🤝 I'm open to collaborating on **interesting projects**
--  📄 Know about my experiences : [<i>**Resume**</i>](https://github.com/manishakumari1002/manishakumari1002/blob/main/MANISHA_resume%20.pdf)
--  
-
+-  📄 Know about my experiences : [<i>**Resume**</i>](https://github.com/manishakumari1002/manishakumari1002/blob/main/MANISHA_resume%20.pdf) 
 </p>
-<br>
-
 <h3 align="left">📧 Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/manisha-kri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manisha kumari" height="50" width="40" /></a> 
 </p>
-
  <br>
   <a><img align="right" src="LeetcodeBadge.gif" width="90" height="70" /></a>
  <a><img align="right" src="2024-04.gif" width="90" height="70" /></a>
  <a><img align="right" src="2024-100-new.gif" width="90" height="70" /></a>
  <a><img align="right" src="2024-200.gif" width="90" height="70"/></a>
 
- 
  <h3 align="left">👨‍💻Coding Profile:</h3>
  <p align="left">
  
@@ -56,7 +50,9 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a>
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a>
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height=70"/> </a></p>
+ <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height=70"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+</p>
 <br>
 
 <h3>📊 My Github Stats</h3> 
