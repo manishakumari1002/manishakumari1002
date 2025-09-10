@@ -6,13 +6,13 @@
  ❤ Views
 </br>
 ![](https://komarev.com/ghpvc/?username=manishakumari1002)
-[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-11k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/manisha-kri/)
+[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-12k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/manisha-kri/)
 
 
 ## 🙋‍♂️ About Me
 <p> 🔭 I’m currently working on <b>Full stack web development and Data Structure.</b>
 
-- 💬 Ask me about **OOPS, Java, Pyton, JDBC, Servlets, Spring, SpringBoot, DBMS, OS, MYSQL.**
+- 💬 Ask me about **OOPS, Java, Pyton, JDBC, Spring, SpringBoot, DBMS, OS, MYSQL.**
 
 - 📫 How to reach me **manishakri05023@gmail.com**
 -   👨‍💻 Check My **Achievements** :https://linktr.ee/manisha_kumari1002
