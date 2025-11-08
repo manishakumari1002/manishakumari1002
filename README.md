@@ -59,7 +59,9 @@
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springboot" width="40" height="40"/>
 </a>
-
+<a href="https://swagger.io/" target="_blank" rel="noreferrer">
+  <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="swagger" width="40" height="40"/>
+</a>
 
 </p>
 <br>
