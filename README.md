@@ -80,7 +80,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manishakumari1002&layout=compact&langs_count=8&theme=react&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manishakumari1002&theme=black-ice&hide_border=true)
-sha Kumari GitHub Streak"
-/>
 
 </div>
