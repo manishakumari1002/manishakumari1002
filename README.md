@@ -74,19 +74,24 @@
 <br>
 
 <h3>📊 My GitHub Stats</h3>
-<br/>
-<img
-  src="https://github-readme-stats.vercel.app/api?username=manishakumari1002&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"
-  alt="Manisha's GitHub Stats"/>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishakumari1002&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117"
-  alt="Top Languages"/>
-<br/>
-<br/>
 
-<br>
- <a href="https://https://github.com/manishakumari1002/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manisha Kumari streak" src="https://github-readme-streak-stats.herokuapp.com/?user=manishakumari1002&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-   
+<div align="center">
 
+<img
+  src="https://github-readme-stats.vercel.app/api?username=manishakumari1002&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=1800"
+  alt="Manisha's GitHub Stats"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishakumari1002&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=1800"
+  alt="Top Languages"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=manishakumari1002&theme=black-ice&hide_border=true"
+  alt="Manisha Kumari GitHub Streak"
+/>
+
+</div>
