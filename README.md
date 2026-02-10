@@ -7,7 +7,7 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Manisha Kumari (A Tech Enthusiast)⭐</b></h1>
-<h3 align="center"> 👨‍💻 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas..  Love to learn new technologies and to explore new sets of areas.</h3><img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
+<h3 align="center"> 👨‍💻 👨‍💻 An enthusiastic programmer with a strong passion for problem-solving and continuous learning. I enjoy exploring new technologies, developing effective solutions, and expanding my knowledge across multiple domains.</h3><img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
 
  ❤ Views
 </br>
