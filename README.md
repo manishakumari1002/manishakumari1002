@@ -73,25 +73,14 @@
 </p>
 <br>
 
-<h3>📊 My GitHub Stats</h3>
+## 📊 My GitHub Stats
 
-<div align="center">
+![Manisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manishakumari1002&show_icons=true&theme=react&hide_border=true)
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=manishakumari1002&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=1800"
-  alt="Manisha's GitHub Stats"
-/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manishakumari1002&layout=compact&langs_count=8&theme=react&hide_border=true)
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishakumari1002&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=1800"
-  alt="Top Languages"
-/>
-
-<br/><br/>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=manishakumari1002&theme=black-ice&hide_border=true"
-  alt="Manisha Kumari GitHub Streak"
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manishakumari1002&theme=black-ice&hide_border=true)
+sha Kumari GitHub Streak"
 />
 
 </div>
